@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## Hello, I am Nicholas Teixeira.
+## I am currently taking Elite 101 for Code2College.
+## I am especially excited to work on making games.
+
+
+
+
 <!--
 **NicholasTeixeiraGR8T/NicholasTeixeiraGR8T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
